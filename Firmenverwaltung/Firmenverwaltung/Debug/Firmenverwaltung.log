@@ -1,0 +1,32 @@
+﻿  Ausgabe.cpp
+c:\users\tf\documents\visual studio 2017\projects\firmenverwaltung\firmenverwaltung\firmenverwaltung\ausgabe.h(953): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: Siehe Deklaration von "strcpy"
+c:\users\tf\documents\visual studio 2017\projects\firmenverwaltung\firmenverwaltung\firmenverwaltung\ausgabe.h(958): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: Siehe Deklaration von "strcpy"
+c:\users\tf\documents\visual studio 2017\projects\firmenverwaltung\firmenverwaltung\firmenverwaltung\ausgabe.h(959): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: Siehe Deklaration von "strcat"
+c:\users\tf\documents\visual studio 2017\projects\firmenverwaltung\firmenverwaltung\firmenverwaltung\ausgabe.h(960): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: Siehe Deklaration von "strcat"
+c:\users\tf\documents\visual studio 2017\projects\firmenverwaltung\firmenverwaltung\firmenverwaltung\ausgabe.h(976): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: Siehe Deklaration von "strcpy"
+c:\users\tf\documents\visual studio 2017\projects\firmenverwaltung\firmenverwaltung\firmenverwaltung\ausgabe.h(992): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: Siehe Deklaration von "strcpy"
+c:\users\tf\documents\visual studio 2017\projects\firmenverwaltung\firmenverwaltung\firmenverwaltung\ausgabe.h(1001): warning C4101: "ind": Unreferenzierte lokale Variable
+  Hauptmenue.cpp
+c:\users\tf\documents\visual studio 2017\projects\firmenverwaltung\firmenverwaltung\firmenverwaltung\ausgabe.h(953): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: Siehe Deklaration von "strcpy"
+c:\users\tf\documents\visual studio 2017\projects\firmenverwaltung\firmenverwaltung\firmenverwaltung\ausgabe.h(958): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: Siehe Deklaration von "strcpy"
+c:\users\tf\documents\visual studio 2017\projects\firmenverwaltung\firmenverwaltung\firmenverwaltung\ausgabe.h(959): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: Siehe Deklaration von "strcat"
+c:\users\tf\documents\visual studio 2017\projects\firmenverwaltung\firmenverwaltung\firmenverwaltung\ausgabe.h(960): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: Siehe Deklaration von "strcat"
+c:\users\tf\documents\visual studio 2017\projects\firmenverwaltung\firmenverwaltung\firmenverwaltung\ausgabe.h(976): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: Siehe Deklaration von "strcpy"
+c:\users\tf\documents\visual studio 2017\projects\firmenverwaltung\firmenverwaltung\firmenverwaltung\ausgabe.h(992): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: Siehe Deklaration von "strcpy"
+c:\users\tf\documents\visual studio 2017\projects\firmenverwaltung\firmenverwaltung\firmenverwaltung\ausgabe.h(1001): warning C4101: "ind": Unreferenzierte lokale Variable
+c:\users\tf\documents\visual studio 2017\projects\firmenverwaltung\firmenverwaltung\firmenverwaltung\hauptmenue.cpp(8): warning C4829: Möglicherweise falsche Parameter für Main-Funktion. Verwenden Sie eventuell "int main(Platform::Array<Platform::String^>^ args)".
+  Code wird generiert...
+  Aendern.obj : MSIL-Modulgefunden; inkrementelles Verknüpfen wird für MSIL deaktiviert; vollständiger Link wird durchgeführt
+  Firmenverwaltung.vcxproj -> C:\Users\tf\Documents\Visual Studio 2017\Projects\Firmenverwaltung\Firmenverwaltung\Debug\Firmenverwaltung.exe
